@@ -1,4 +1,4 @@
-# UX/UI Portfolio Starter Kit V1
+# UX/UI Portfolio Starter Kit V1123123123
 
 UX/UI 포트폴리오 수업을 위한 가벼운 React 기반 Starter Kit입니다. React는 화면을 컴포넌트로 나누어 작업하기 위한 도구로 사용하고, 최종 결과물은 `dist` 폴더의 정적 파일로 배포합니다.
 
